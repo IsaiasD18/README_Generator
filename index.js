@@ -50,7 +50,7 @@ const questions = [
     //These questions both go inside the Questions section
     {
         name: 'github',
-        message: 'Whats your Github username?S'
+        message: 'Whats your Github username?'
     },
     {
         name: 'email',

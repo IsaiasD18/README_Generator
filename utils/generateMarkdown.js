@@ -51,9 +51,7 @@ function generateMarkdown(data) {
   ${data.tests}
   ## Questions
   - Github: [${data.github}](https://github.com/${data.github})
-  - Email: [${data.email}](mailto${data.email})
-  
-
+  - Email: [${data.email}](mailto:${data.email})
 `;
 }
 
